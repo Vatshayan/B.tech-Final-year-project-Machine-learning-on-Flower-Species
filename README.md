@@ -9,6 +9,7 @@ Algorithm used for predicting and get accuracy are -
 4. Logistic Regression 
 5. metrics
 6. train_test_split
-       We are making accuracy and prediction in Iris project through Iris Dataset.
-       My Codes, thinking, analytics and logic for making this prediction is unmatchable and best !!
-       I am Shivam Vatshayan (vatshayanshiv1998@gmail.com)
+We are making accuracy and prediction in Iris project through Iris Dataset.
+This is easy and understable for machine learning staters( Naive )
+My Codes, thinking, analytics and logic for making this prediction is unmatchable and best !!
+I am Shivam Vatshayan (vatshayanshiv1998@gmail.com)
