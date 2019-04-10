@@ -12,4 +12,9 @@ Algorithm used for predicting and get accuracy are -
 We are making accuracy and prediction in Iris project through Iris Dataset.
 This is easy and understable for machine learning staters( Naive )
 My Codes, thinking, analytics and logic for making this prediction is unmatchable and best !!
+
+I have written a 3 papers on IRIS Flower Species and Published Paper on Performance Evaluation of Supervised Learning for Iris Flower Species( http://ijirt.org/Article?manuscript=147862 )
+
+Contact me for Machine Learning Projects and Research papers on various topics!!
+
 I am Shivam Vatshayan (vatshayanshiv1998@gmail.com)
