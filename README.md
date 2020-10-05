@@ -19,7 +19,15 @@ My Codes, thinking, analytics and logic for making this prediction is unmatchabl
 
 I have written a Research papers on "Performance Evaluation of Supervised Learning for Iris Flower Species" ( http://ijirt.org/Article?manuscript=147862 )
 
+*******************************************************************************************************************************************************************************
+
 ### Contact me (vatshayan007@gmail.com) for Machine Learning Projects, Woking Codes and Research papers on various topics!!
+
+I have updated Code and PPT of this Project. 
+
+Feel free to Mail for your doubts.
+
+Your one Mail can ease your work and tension !
  
 Let's Work, Learn ad Grow together !
 
