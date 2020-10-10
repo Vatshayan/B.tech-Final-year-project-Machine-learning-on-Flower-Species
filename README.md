@@ -24,7 +24,7 @@ I have written a Research papers on "Performance Evaluation of Supervised Learni
 ### Contact me (Vatshayan007@gmail.com) for Project codes, Research papers, PPT and project report.
 If you are not able to Understand this project or anything on Machine learning then, Mail me Now.
 
-We will have Zoom, webex, Teams or Google meet sessions to make you Understand and Learn. 
+#### We will have Zoom, webex, Teams or Google meet sessions to make you Understand and Learn. 
 
 I have updated Code and PPT of this Project. 
 
