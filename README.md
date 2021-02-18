@@ -20,18 +20,27 @@ My Codes, thinking, analytics and logic for making this prediction is unmatchabl
 I have written a Research papers on "Performance Evaluation of Supervised Learning for Iris Flower Species" ( http://ijirt.org/Article?manuscript=147862 )
 
 *******************************************************************************************************************************************************************************
+### Hi there 👋
 
-### Contact me (Vatshayan007@gmail.com) for Project codes, Research papers, PPT and project report.
-If you are not able to Understand this project or anything on Machine learning then, Mail me Now.
+You Can use this Beautiful Project for your college Project and get good marks too. 
 
-#### We will have Zoom, webex, Teams or Google meet sessions to make you Understand and Learn. 
+Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Report, Synopsis, Video Presentation and Research paper of this Project.
 
-I have updated Code and PPT of this Project. 
+💌 Feel free to contact me for any kind of help on projects related to Machine Learning, Data Science, Cryptography, DIP, Web technologies and Cloud.
 
-Feel free to Mail for your doubts.
 
-Your one Mail can ease your work and tension !
+### HOW TO RUN THE PROJECT-
+⚡ Email me at **vatshayan007@gmail.com** to get a detailed Guide report to run the project with source Code.
+
+### INTERNSHIP 
+🌟 Internship oppurtunity for everyone - https://github.com/Vatshayan/INTERNSHIP
+
+### 📫 HOW TO REACH ME 
+
+💬 Gmail: **vatshayan007@gmail.com**
+
+Happy to Help you😄😅
+
  
-Let's Work, Learn ad Grow together !
 
 
